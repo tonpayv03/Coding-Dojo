@@ -102,3 +102,5 @@ dist
 
 # TernJS port file
 .tern-port
+/.vs/Coding-Dojo/v16/Server/sqlite3
+/.vs/Coding-Dojo/v16/.suo

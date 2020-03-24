@@ -1,0 +1,14 @@
+D:\Users\Rithn\source\repos\_Console App\Coding-Dojo\CalGrade\bin\Debug\netcoreapp3.1\CalGrade.exe
+D:\Users\Rithn\source\repos\_Console App\Coding-Dojo\CalGrade\bin\Debug\netcoreapp3.1\CalGrade.deps.json
+D:\Users\Rithn\source\repos\_Console App\Coding-Dojo\CalGrade\bin\Debug\netcoreapp3.1\CalGrade.runtimeconfig.json
+D:\Users\Rithn\source\repos\_Console App\Coding-Dojo\CalGrade\bin\Debug\netcoreapp3.1\CalGrade.runtimeconfig.dev.json
+D:\Users\Rithn\source\repos\_Console App\Coding-Dojo\CalGrade\bin\Debug\netcoreapp3.1\CalGrade.dll
+D:\Users\Rithn\source\repos\_Console App\Coding-Dojo\CalGrade\bin\Debug\netcoreapp3.1\CalGrade.pdb
+D:\Users\Rithn\source\repos\_Console App\Coding-Dojo\CalGrade\obj\Debug\netcoreapp3.1\CalGrade.csprojAssemblyReference.cache
+D:\Users\Rithn\source\repos\_Console App\Coding-Dojo\CalGrade\obj\Debug\netcoreapp3.1\CalGrade.AssemblyInfoInputs.cache
+D:\Users\Rithn\source\repos\_Console App\Coding-Dojo\CalGrade\obj\Debug\netcoreapp3.1\CalGrade.AssemblyInfo.cs
+D:\Users\Rithn\source\repos\_Console App\Coding-Dojo\CalGrade\obj\Debug\netcoreapp3.1\CalGrade.dll
+D:\Users\Rithn\source\repos\_Console App\Coding-Dojo\CalGrade\obj\Debug\netcoreapp3.1\CalGrade.pdb
+D:\Users\Rithn\source\repos\_Console App\Coding-Dojo\CalGrade\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\Rithn\source\repos\_Console App\Coding-Dojo\CalGrade\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\Rithn\source\repos\_Console App\Coding-Dojo\CalGrade\obj\Debug\netcoreapp3.1\CalGrade.csproj.CopyComplete
