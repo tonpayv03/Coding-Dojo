@@ -9,7 +9,6 @@ namespace CalGrade
 		{
 			string exit = "1";
 			int number;
-
 			var serviceProvider = new ServiceCollection()
 			.AddSingleton<IGradeCalculations, GradeCalculations>()
 			.BuildServiceProvider();
@@ -19,12 +18,20 @@ namespace CalGrade
 			while (exit != "0")
 			{
 				Console.Write("Please Enter Score: ");
-				number = Convert.ToInt32(Console.ReadLine());
 
-				gradeCal.CalGrade(number);
 
-				Console.WriteLine("Exit: 0 , Again: Some Key");
-				exit = Console.ReadLine().ToString();
+				string inputValue = Console.ReadLine();
+
+				bool isnumeric = int.TryParse(inputValue, out number);
+
+				if (isnumeric)
+				{
+					string Grade = gradeCal.CalGrade(number);
+					gradeCal.DisplayGrade(Grade);
+
+					Console.WriteLine("Exit: 0 , Again: Some Key");
+					exit = Console.ReadLine();
+				}
 
 				Console.Clear();
 			}

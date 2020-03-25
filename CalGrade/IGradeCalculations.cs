@@ -6,6 +6,7 @@ namespace CalGrade
 {
 	public interface IGradeCalculations
 	{
-		void CalGrade(int number);
+		string CalGrade(int number);
+		void DisplayGrade(string grade);
 	}
 }

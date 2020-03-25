@@ -6,26 +6,24 @@ namespace CalGrade
 {
 	public class GradeCalculations : IGradeCalculations
 	{
-		private string Grade { get; set; }
-		public GradeCalculations()
+		public string CalGrade(int number)
 		{
 
-		}
-		public void CalGrade(int number)
-		{
-			if (number > 90 && number <= 100)
+			string Grade;
+
+			if (number >= 91 && number <= 100)
 			{
 				Grade = "A";
 			}
-			else if (number > 80 && number <= 90)
+			else if (number >= 81 && number <= 90)
 			{
 				Grade = "B";
 			}
-			else if(number > 70 && number <= 80)
+			else if(number >= 71 && number <= 80)
 			{
 				Grade = "C";
 			}
-			else if(number > 60 && number <= 70)
+			else if(number >= 61 && number <= 70)
 			{
 				Grade = "D";
 			}
@@ -38,10 +36,10 @@ namespace CalGrade
 				Grade = "Out of Range";
 			}
 
-			DisplayGrade();
+			return Grade;
 		}
 
-		private void DisplayGrade()
+		public void DisplayGrade(string Grade)
 		{
 			Console.WriteLine("==========================");
 			Console.WriteLine($"Result Grade: {Grade}");
