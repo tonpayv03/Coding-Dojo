@@ -73,11 +73,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Rithn\\source\\repos\\_Console App\\Coding-Dojo\\CalGrade\\CalGrade.csproj",
+      "projectUniqueName": "D:\\Users\\Rithn\\source\\repos\\_Console App\\Coding-Dojo\\Coding-Dojo\\CalGrade\\CalGrade.csproj",
       "projectName": "CalGrade",
-      "projectPath": "D:\\Users\\Rithn\\source\\repos\\_Console App\\Coding-Dojo\\CalGrade\\CalGrade.csproj",
+      "projectPath": "D:\\Users\\Rithn\\source\\repos\\_Console App\\Coding-Dojo\\Coding-Dojo\\CalGrade\\CalGrade.csproj",
       "packagesPath": "C:\\Users\\Rithn\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Rithn\\source\\repos\\_Console App\\Coding-Dojo\\CalGrade\\obj\\",
+      "outputPath": "D:\\Users\\Rithn\\source\\repos\\_Console App\\Coding-Dojo\\Coding-Dojo\\CalGrade\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
