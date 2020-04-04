@@ -62,7 +62,7 @@ namespace XOGame
 					board.Board();
 					isPlaying = false;
 				}
-
+				
 				if (!isPlaying)
 				{
 					Console.Write("Play Again: Press Other Key || Exit: Press X --> ");
@@ -83,7 +83,7 @@ namespace XOGame
 				}
 			}
 
-			board.ShowScore();
+			board.ShowScore(board.XScore,board.OScore,board.DrawScore);
 		}
 	}
 }

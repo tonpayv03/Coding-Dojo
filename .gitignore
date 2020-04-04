@@ -341,3 +341,5 @@ healthchecksdb
 CalGrade/obj
 *.sln
 CalGrade/obj
+.vs/Coding-Dojo/DesignTimeBuild
+.vs
